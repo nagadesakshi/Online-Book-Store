@@ -28,16 +28,16 @@ This website demonstrates the use of CSS properties such as:
 
 ### HTML Code
 
-![HTML Code]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2026-06-16 115648.png")
+![HTML Code](book/images/screenshort-htmlcode.png)
 
 
 ### CSS Code
 
-![CSS Code]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2026-06-16 115711.png")
+![CSS Code](book/images/Screenshot csscode.png)
 
 ### Project Output
 
-![Project Output]("C:\Users\shubh\OneDrive\Pictures\Screenshots\Screenshot 2026-06-16 115619.png")
+![Project Output](book/images/Screenshot output.png)
 
 
 
