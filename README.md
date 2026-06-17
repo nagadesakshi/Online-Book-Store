@@ -38,7 +38,8 @@ This website demonstrates the use of CSS properties such as:
 
 ### Project Output
 
-![Project Output]()
+![Project Output](< src="https://github.com/user-attachments/assets/750ef41f-27d5-4d0b-9c63-ba9318ddb284" />
+)
 
 
 
