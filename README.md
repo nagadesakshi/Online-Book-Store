@@ -33,11 +33,12 @@ This website demonstrates the use of CSS properties such as:
 
 ### CSS Code
 
-![CSS Code](book/images/Screenshot csscode.png)
+![CSS Code](<img width="450" height="877" alt="image" src="https://github.com/user-attachments/assets/1bbc55af-1250-49de-8e7d-bef6a07e319c" />
+)
 
 ### Project Output
 
-![Project Output](book/images/Screenshot output.png)
+![Project Output]()
 
 
 
